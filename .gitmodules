@@ -1,0 +1,3 @@
+[submodule "durga"]
+	path = durga
+	url = https://github.com/URK23CS5076/durga.git
